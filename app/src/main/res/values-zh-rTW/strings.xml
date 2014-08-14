@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">帳號</string>
+    <string name="password">密碼</string>
+
+    <string name="album_expert_show">相簿達人秀</string>
+    <string name="album_travel">旅遊記錄</string>
+    <string name="album_art">藝術寫真</string>
+    <string name="album_pro">攝影作品</string>
+
+    <string name="tab_home">首頁</string>
+    <string name="tab_my">我的</string>
+    <string name="tab_favor">關注</string>
+</resources>
